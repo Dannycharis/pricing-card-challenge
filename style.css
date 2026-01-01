@@ -149,13 +149,14 @@ ul {
 
   h1 {
     width: 100%;
+    font-size: 1.8rem
   }
   .top-section {
     height: auto;
   }
 
   .top-section h2 {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
   }
 
   .top-section p {
