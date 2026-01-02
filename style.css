@@ -96,6 +96,14 @@ button {
   padding: 15px;
   font-size: 1rem;
   margin-top: 40px;
+  cursor: pointer;
+}
+
+button:hover {
+  filter: brightness(0.9);
+}
+button:active {
+  transform: translateY(2px);
 }
 .bottom-right-section {
   /* width: 100%; */
@@ -129,6 +137,7 @@ button {
   }
  
 }
+
 
 
 
