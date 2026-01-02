@@ -34,7 +34,7 @@ body {
   color: #161e54;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 2rem;
-  word-wrap: wrap;
+  word-wrap: break-word;
 }
 
 .top-section h4 {
@@ -130,6 +130,7 @@ button {
   }
  
 }
+
 
 
 
