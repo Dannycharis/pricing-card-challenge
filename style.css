@@ -23,7 +23,7 @@ body {
 }
 
 .top-section {
-  min-height: 350px;
+  min-height: 450px;
   padding: 25px;
   line-height: 20px;
   display: flex;
@@ -130,6 +130,7 @@ button {
   }
  
 }
+
 
 
 
